@@ -273,3 +273,10 @@ box-shadow: 10px 10px 5px rgb(0 0 0 / 50%);
     text-decoration: none;
     text-transform: uppercase;
 }
+@media(max-width: 479px){
+
+    .center_div p{
+        font-size: 25px;
+    }
+
+}
